@@ -1,5 +1,5 @@
 ### Olá, sou o Anderson Júnior, desenvolvedor Fullstack com ênfase em Frontend e UI/UX Design
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/andersonjuniorworks">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=andersonjuniorworks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonjuniorworks&layout=compact&langs_count=7&theme=tokyonight"/>
