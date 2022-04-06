@@ -1,8 +1,8 @@
 ### Olá, sou o Anderson Júnior, desenvolvedor Fullstack com ênfase em Frontend e UI/UX Design
 <div style="display: inline_block">
   <a href="https://github.com/andersonjuniorworks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonjuniorworks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonjuniorworks&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonjuniorworks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonjuniorworks&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&border_radius=10px"/>
 </div>
   <div align="left">
     <h2>Habilidades</h2>
